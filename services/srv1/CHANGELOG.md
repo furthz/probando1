@@ -1,5 +1,14 @@
 # CHANGELOG
 
+# 1.3.0 (2022-08-26)
+
+
+### Bug Fixes
+
+* **services/srv1:** Cambiar el titulo mas acorde ([cab709c](https://github.com/furthz/probando1/commit/cab709c697b269773b78e1a594926e8b09a7c6e1))
+
+
+
 # 1.2.0 (2022-08-26)
 
 
