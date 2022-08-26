@@ -1,5 +1,14 @@
 # CHANGELOG
 
+# 1.2.0 (2022-08-26)
+
+
+### Bug Fixes
+
+* **services/srv1:** Correccion mensaje consola ([9841d48](https://github.com/furthz/probando1/commit/9841d487b8e339b44a9a166c4e7c33d8bcb602f8))
+
+
+
 # 1.1.0 (2022-08-26)
 
 
